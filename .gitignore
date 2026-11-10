@@ -1,0 +1,14 @@
+# Configuração local da rede
+wifi_config.h
+
+# Arquivos gerados pelo Arduino e pelo PlatformIO
+/build/
+.pio/
+*.bin
+*.elf
+*.hex
+*.map
+
+# Arquivos locais do sistema
+.DS_Store
+Thumbs.db
